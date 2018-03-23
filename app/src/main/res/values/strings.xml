@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">New York City HighSchool Data</string>
+    <string name="attendance">School Attendance Rate: </string>
+</resources>
